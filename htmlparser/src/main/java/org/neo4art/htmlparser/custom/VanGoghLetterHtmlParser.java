@@ -10,7 +10,7 @@ import org.neo4art.htmlparser.exception.HtmlLetterParserException;
 
 
 public class VanGoghLetterHtmlParser  {
-
+	
 	private IHtmlLetterParser htmlLetterParser;
 
 	public Letter getLetter(URL url) throws HtmlLetterParserException{
@@ -26,13 +26,53 @@ public class VanGoghLetterHtmlParser  {
 
 		
 		//FROM 
-		String patternEXPFrom = "(From:)+(\\s[a-zA-Z\\s]*)+(\\sTo)";
+		String patternEXPFrom = "(From:)+(\\s[a-zA-Z\\s.é]*)+(\\sTo)";
 		Pattern patternFrom = Pattern.compile(patternEXPFrom);
 		Matcher matcherFrom = patternFrom.matcher(htmlPageByUrl);
 		
 		while (matcherFrom.find()) {
 			letter.setFrom(matcherFrom.group(2).replaceAll("^\\s+|\\s+$|\\s*(\n)\\s*|(\\s)\\s*", "$1$2"));
 		}
+		
+		//To 
+		String patternEXPTo = "(To:)+(\\s[a-zA-Z\\s.-é]*)+(\\sDate)";
+		Pattern patternTo = Pattern.compile(patternEXPTo);
+		Matcher matcherTo = patternTo.matcher(htmlPageByUrl);
+		
+		while (matcherTo.find()) {
+			letter.setTo(matcherTo.group(2).replaceAll("^\\s+|\\s+$|\\s*(\n)\\s*|(\\s)\\s*", "$1$2"));
+		}
+		
+		//Date 
+		String patternEXPDate = "(Date:)+(\\s[a-zA-Z?Îé/,0-9-.-]*)+(\\s<)";
+		Pattern patternDate = Pattern.compile(patternEXPDate);
+		Matcher matcherDate = patternDate.matcher(htmlPageByUrl);
+		String date = "";
+		
+//		System.out.println(htmlPageByUrl);
+//		System.out.println("\n--------------------\n");
+		
+		
+		if (matcherDate.find()) {
+		
+			date = matcherDate.group(0);
+			
+//			System.out.println(date);
+			
+			date = date.replaceAll("^\\s+|\\s+$|\\s*(\n)\\s*|(\\s)\\s*", "$1$2");
+			date = date.replace("Date: ", "");
+			date = date.replace("<", "");
+			date = date.replace("\n","");
+		}
+		
+//		System.out.println("date: "+date);
+		
+		String[] vettDate = date.split(",");
+		String place = vettDate[0];
+		letter.setPlace(place);
+		String dateLetter = date.substring(place.length()+1,date.length());
+		letter.setDate(dateLetter.replaceFirst(" ", ""));
+		
 		
 		//PULISCO IL TESTO
 
@@ -41,41 +81,16 @@ public class VanGoghLetterHtmlParser  {
 		letter.setText(text);
 		
 		String title = this.htmlLetterParser.getMetadata().get("title");
-		
 		String[] titleGenerale = title.split(":");
 		String titleGenerale1 = titleGenerale[1];
-		
-		String[] t1 = titleGenerale1.split("\\.");
-		String to = t1[0];	
-		
-		String luogo="";
-		String date = "";
-		
-		if(t1.length>2){
-			
-			String t2 = t1[1];
-			String[] t3 = t2.split(",");
-			
-			luogo = t3[0];
-		
-			
-			for(int i = 1 ; i < t3.length ;i++){
-				date = date + t3[i];
-			}	
-		}
-		
-		
-		to = to.substring(3);
-		
 		letter.setTitle(titleGenerale1);
-		letter.setDate(date);
-		letter.setPlace(luogo);
-		letter.setTo(to);
+		
 		letter.setUrl(""+url);
 		
 		letter.setText(letter.getText().replace(",", " , "));
 		letter.setText(letter.getText().replace(".", " . "));
 		letter.setText(letter.getText().replace(";", " ; "));
+		letter.setText(letter.getText().replaceAll("(\\[sketch\\s\\w\\])", ""));
 		letter.setText(letter.getText().replaceAll("^\\s+|\\s+$|\\s*(\n)\\s*|(\\s)\\s*", "$1$2"));
 		
 		return letter;

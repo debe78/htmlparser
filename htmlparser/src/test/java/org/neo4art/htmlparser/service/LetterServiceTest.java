@@ -35,7 +35,7 @@ public class LetterServiceTest {
 		
 		try{
 		
-		  FileUtils.cleanDirectory(Paths.get("K:\\Progetti\\ArtProject\\Software\\Git\\htmlparser\\htmlparser\\src\\main\\resources\\vangoghletters").toFile());
+		  FileUtils.cleanDirectory(Paths.get("/home/larus/Progetti/Git/htmlparser/htmlparser/src/main/resources/vangoghletters").toFile());
 		}
 		catch(IOException e){
 			
@@ -61,7 +61,7 @@ public class LetterServiceTest {
 		
 		
 		@SuppressWarnings("rawtypes")
-		Collection listFiles = FileUtils.listFiles(Paths.get("K:\\Progetti\\ArtProject\\Software\\Git\\htmlparser\\htmlparser\\src\\main\\resources\\vangoghletters").toFile(), null, false);
+		Collection listFiles = FileUtils.listFiles(Paths.get("/home/larus/Progetti/Git/htmlparser/htmlparser/src/main/resources/vangoghletters").toFile(), null, false);
 		Assert.assertTrue(listFiles.size() > 0);
 		Assert.assertEquals(902, listFiles.size());
 	}
@@ -98,7 +98,7 @@ public class LetterServiceTest {
 		
 		
 		@SuppressWarnings("rawtypes")
-		Collection listFiles = FileUtils.listFiles(Paths.get("K:\\Progetti\\ArtProject\\Software\\Git\\htmlparser\\htmlparser\\src\\main\\resources\\vangoghletters").toFile(), null, false);
+		Collection listFiles = FileUtils.listFiles(Paths.get("/home/larus/Progetti/Git/htmlparser/htmlparser/src/main/resources/vangoghletters").toFile(), null, false);
 		Assert.assertTrue(listFiles.size() > 0);
 		Assert.assertEquals(928, listFiles.size());
 	}
@@ -110,19 +110,38 @@ public class LetterServiceTest {
 		
 		try {
 			
-		  List<Letter> lettersFromPath = letterService.getLettersFromPath(Paths.get("K:\\Progetti\\ArtProject\\Software\\Git\\htmlparser\\htmlparser\\src\\main\\resources\\vangoghletters"));
+		  List<Letter> lettersFromPath = letterService.getLettersFromPath(Paths.get("/home/larus/Progetti/Git/htmlparser/htmlparser/src/main/resources/vangoghletters"));
 		  Assert.assertNotNull(lettersFromPath);;
 		  Assert.assertEquals(928, lettersFromPath.size());
 
 		  for (Letter letter : lettersFromPath) {
 			
-				System.out.println("Location: "+letter.getPlace()+"\n");
-				System.out.println("Date: "+letter.getDate()+"\n");
-				System.out.println("From: "+letter.getFrom()+"\n");
-				System.out.println("To: "+letter.getTo()+"\n");
-				System.out.println("Url: "+letter.getUrl()+"\n");
-				System.out.println("Testo: \n"+letter.getText()+"\n");
-				System.out.println("----------------------------------------------------\n");
+//				System.out.println("Location: "+letter.getPlace()+"\n");
+//				System.out.println("Date: "+letter.getDate()+"\n");
+//				System.out.println("From: "+letter.getFrom()+"\n");
+//				System.out.println("To: "+letter.getTo()+"\n");
+//				System.out.println("Url: "+letter.getUrl()+"\n");
+//				System.out.println("Testo: \n"+letter.getText()+"\n");
+//				System.out.println("----------------------------------------------------\n");
+			  
+			  
+			  if(letter.getDate().trim().length()==0){
+				  
+				 System.out.println("Lettera senza data: "+letter.getUrl()); 
+			  }
+			  if(letter.getTo().trim().length()==0){
+				  
+					 System.out.println("Lettera senza To: "+letter.getUrl()); 
+			  }
+			  if(letter.getFrom().trim().length()==0){
+				  
+					 System.out.println("Lettera senza From: "+letter.getUrl()); 
+			  }
+			  if(letter.getPlace().trim().length()==0){
+				  
+					 System.out.println("Lettera senza Luogo: "+letter.getUrl()); 
+			  }
+			  
 			  
 		}
 		  
@@ -150,7 +169,7 @@ public class LetterServiceTest {
 			
 			Letter letter = vanGoghLetterHtmlParser.getLetter(url);
 			
-			Path path = Paths.get("K:\\Progetti\\ArtProject\\Software\\Git\\htmlparser\\htmlparser\\src\\main\\resources\\vangoghletters\\"+numeroLettera+".txt");
+			Path path = Paths.get("/home/larus/Progetti/Git/htmlparser/htmlparser/src/main/resources/vangoghletters/let"+numeroLettera+".txt");
 			letterService.saveLetterFromUrl(letter, path);
 			
 	  	  } catch (Exception e) {

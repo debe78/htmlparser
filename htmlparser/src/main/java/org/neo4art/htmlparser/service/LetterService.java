@@ -12,6 +12,7 @@ import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.List;
+import java.util.Vector;
 
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.lang3.StringUtils;
@@ -40,13 +41,18 @@ public class LetterService implements ILetterService{
 			 printWriter.print("\nDate|"+letter.getDate());
 			 printWriter.print("\nTo|"+letter.getTo());
 			 printWriter.print("\nFrom|"+letter.getFrom());
+			 printWriter.print("\nMuseum|"+letter.getMuseum());
+			 int i = 0;
+			 while(i < letter.getLink().size()){
+				 printWriter.print("\nLink image "+(i+1)+"|"+letter.getLink().elementAt(i));
+				 i++;
+			 }
 			 printWriter.print("\nUrl letter|"+letter.getUrl());
 			 printWriter.print("\nLetter|"+letter.getText());
 			 printWriter.close();
 		 }
 		 catch(Exception e)
 		 {
-			 e.printStackTrace();
 		 }
 		
 		
@@ -110,10 +116,16 @@ public class LetterService implements ILetterService{
 			letter.setTo(parseLetterContent(listContentFile,3));
 			//From
 			letter.setFrom(parseLetterContent(listContentFile,4));
+			//Museum
+			letter.setMuseum(parseLetterContent(listContentFile, 5));
+			//Prendo il numero di link dell'immagine di una lettera
+			int numero = getNumberLinkImage(listContentFile, 6);
+			//Setto i link delle immagini delle lettera dentro un Vector
+			letter.setLink(parseLetterLinkImageContent(listContentFile, numero));
 			//Url
-			letter.setUrl(parseLetterContent(listContentFile,5));
+			letter.setUrl(parseLetterContent(listContentFile,6 + numero));
 			//Letter
-            letter.setText(parseLetterTextContent(listContentFile,6));
+            letter.setText(parseLetterTextContent(listContentFile,7 + numero));
 		
 		} catch (IOException e) {
 			
@@ -121,6 +133,41 @@ public class LetterService implements ILetterService{
 		}
 		
 		return letter;
+	}
+
+	public int getNumberLinkImage(List<String> list, int indice){
+		int numero= 0;
+		
+		for(int i = indice ; i < list.size() ; i++){	
+			String elementRow = list.get(i);
+			String[] element = StringUtils.split(elementRow, "|");
+			if(!element[0].equals("Url letter")){
+				numero ++;
+			}
+			else{
+				return numero;
+			}
+		}
+		
+		return numero;
+	}
+	
+	
+	
+	private Vector<String> parseLetterLinkImageContent(List<String> listContentFile, int indice) {
+		Vector<String> link = new Vector<String>();
+		int j = 0;
+		for(int i = 6 ; i <= 6+indice ; i++){	
+			String elementRow = listContentFile.get(i);
+			String[] element = StringUtils.split(elementRow, "|");
+			if(!element[0].equals("Url letter")){
+				link.add(j, element[1]);
+			}
+			else{
+				return link;
+			}
+		}
+		return link;
 	}
 
 	/**

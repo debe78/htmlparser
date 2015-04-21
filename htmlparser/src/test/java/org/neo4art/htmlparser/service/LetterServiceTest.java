@@ -111,7 +111,7 @@ public class LetterServiceTest {
 		try {
 			
 		  List<Letter> lettersFromPath = letterService.getLettersFromPath(Paths.get("/home/larus/Progetti/Git/htmlparser/htmlparser/src/main/resources/vangoghletters"));
-		  Assert.assertNotNull(lettersFromPath);;
+		  Assert.assertNotNull(lettersFromPath);
 		  Assert.assertEquals(928, lettersFromPath.size());
 
 		  for (Letter letter : lettersFromPath) {
@@ -125,6 +125,14 @@ public class LetterServiceTest {
 //				System.out.println("----------------------------------------------------\n");
 			  
 			  
+//			  Assert.assertTrue(letter.getDate().trim().length() != 0);
+//			  Assert.assertTrue(letter.getTo().trim().length() != 0);
+//			  Assert.assertTrue(letter.getFrom().trim().length() != 0);
+//			  Assert.assertTrue(letter.getPlace().trim().length() != 0);
+//			  Assert.assertTrue(letter.getTitle().trim().length() != 0);
+//			  Assert.assertTrue(letter.getUrl().trim().length() != 0);
+//			  Assert.assertTrue(letter.getText().trim().length() != 0);
+//			  Assert.assertTrue(letter.getMuseum().trim().length() != 0);
 			  if(letter.getDate().trim().length()==0){
 				  
 				 System.out.println("Lettera senza data: "+letter.getUrl()); 
@@ -141,8 +149,18 @@ public class LetterServiceTest {
 				  
 					 System.out.println("Lettera senza Luogo: "+letter.getUrl()); 
 			  }
-			  
-			  
+			  if(letter.getTitle().trim().length()==0){
+				  
+					 System.out.println("Lettera senza Titolo: "+letter.getUrl()); 
+			  }
+			  if(letter.getMuseum().trim().length() == 0 ){
+				  
+					 System.out.println("Lettera senza Museo: "+letter.getUrl()); 
+			  }
+			  if(letter.getLink().size() == 0){
+				  
+					 System.out.println("Lettera senza Url Immagine: "+letter.getUrl()); 
+			  }
 		}
 		  
 		  
@@ -173,7 +191,6 @@ public class LetterServiceTest {
 			letterService.saveLetterFromUrl(letter, path);
 			
 	  	  } catch (Exception e) {
-			e.printStackTrace();
 			Assert.fail(e.getMessage());
 		  }
 	}

@@ -2,7 +2,10 @@ Title| Theo van Gogh and Jo Bonger to Vincent van Gogh. Paris/Amsterdam, on or a
 Location|Paris/Amsterdam
 Date|on or about Sunday, 6 January 1889
 To|Vincent van Gogh
-From|
+From|Theo van Gogh and Jo van Gogh-Bonger
+Museum|Amsterdam, Van Gogh Museum, inv. no. b3556 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001005012_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001005012_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let731/letter.html
 Letter|Engaged
 Theodorus van Gogh
@@ -10,5 +13,5 @@ and
 Johanna Bonger
 January 1889	Paris
 Amsterdam
-Reception Wednesday , 9 January
+Reception Wednesday, 9 January
 Weteringschans 121

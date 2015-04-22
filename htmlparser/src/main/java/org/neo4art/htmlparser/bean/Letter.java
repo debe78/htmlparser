@@ -1,5 +1,6 @@
 package org.neo4art.htmlparser.bean;
 
+import java.util.ArrayList;
 import java.util.Vector;
 
 /**
@@ -17,7 +18,10 @@ public class Letter {
 	String url;
 	String title;
 	String museum;
-	Vector<String> link;
+	ArrayList<String> link;
+	ArrayList<String> linkLetter;
+
+
 
 	public Letter() {
 		
@@ -42,11 +46,19 @@ public class Letter {
 		this.museum = museum;
 	}
 	
-	public void setLink(Vector<String> linkV){
-		this.link = linkV;
+	public ArrayList<String> getLinkLetter() {
+		return linkLetter;
+	}
+
+	public void setLinkLetter(ArrayList<String> linkLetter) {
+		this.linkLetter = linkLetter;
 	}
 	
-	public Vector<String> getLink(){
+	public void setLink(ArrayList<String> arrayListLink){
+		this.link = arrayListLink;
+	}
+	
+	public ArrayList<String> getLink(){
 		return link;
 	}
 	

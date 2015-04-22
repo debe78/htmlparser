@@ -1,6 +1,7 @@
 package org.neo4art.htmlparser.custom;
 
 import java.net.URL;
+import java.util.ArrayList;
 import java.util.Vector;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -35,23 +36,23 @@ public class VanGoghLetterHtmlParser  {
 		
 		while (matcherFrom.find()) {
 			letter.setFrom(matcherFrom.group(2).replaceAll("^\\s+|\\s+$|\\s*(\n)\\s*|(\\s)\\s*", "$1$2"));
-		}
+		}		
 		
 		//LINK IMAGE LETTER
 		String patternEXPImage = "<img src=\"/vg/facsimiles/+([A-z0-9.-]*)";
 		Pattern patternImage = Pattern.compile(patternEXPImage);
 		Matcher matcherImage = patternImage.matcher(htmlPageByUrl);
 		int i = 0;
-		Vector<String> vectorLink = new Vector<String>();
+		ArrayList<String> arrayListLink = new ArrayList<String>();
 		while (matcherImage.find()) {
 			String link =matcherImage.group(1);
 			link = link.replace(".jpg", ".png");
 			link = link.replace("t", "f");
 			link = "http://vangoghletters.org/vg/facsimiles/"+link;
 //			System.out.println(""+link);
-			vectorLink.add(link);
+			arrayListLink.add(link);
 		}
-		letter.setLink(vectorLink);
+		letter.setLink(arrayListLink);
 		
 		//To 
 		String patternEXPTo = "(To:\\s)+([A-Za-z\\s-éèä.]*)+(Date:)";

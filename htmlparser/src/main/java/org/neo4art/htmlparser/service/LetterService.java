@@ -32,7 +32,7 @@ public class LetterService implements ILetterService{
 	 * @param Path - the path where save the letter
 	 */
 	public void saveLetterFromUrl(Letter letter, Path path) {
-		
+		//Scrivo su file la lettera
 		try
 		 {
 			 PrintWriter printWriter = new PrintWriter(new BufferedWriter(new FileWriter(path.toFile(), true)));
@@ -44,7 +44,7 @@ public class LetterService implements ILetterService{
 			 printWriter.print("\nMuseum|"+letter.getMuseum());
 			 int i = 0;
 			 while(i < letter.getLink().size()){
-				 printWriter.print("\nLink image "+(i+1)+"|"+letter.getLink().elementAt(i));
+				 printWriter.print("\nLink image "+(i+1)+"|"+letter.getLink().get(i));
 				 i++;
 			 }
 			 printWriter.print("\nUrl letter|"+letter.getUrl());
@@ -121,9 +121,9 @@ public class LetterService implements ILetterService{
 			//Prendo il numero di link dell'immagine di una lettera
 			int numero = getNumberLinkImage(listContentFile, 6);
 			//Setto i link delle immagini delle lettera dentro un Vector
-			letter.setLink(parseLetterLinkImageContent(listContentFile, numero));
+			letter.setLink(parseLetterLinkImageContent(listContentFile, 6 + numero));				
 			//Url
-			letter.setUrl(parseLetterContent(listContentFile,6 + numero));
+			letter.setUrl(parseLetterContent(listContentFile, 6 + numero));
 			//Letter
             letter.setText(parseLetterTextContent(listContentFile,7 + numero));
 		
@@ -135,7 +135,7 @@ public class LetterService implements ILetterService{
 		return letter;
 	}
 
-	public int getNumberLinkImage(List<String> list, int indice){
+	public int getNumberLinkImage(List<String> list, int indice){//Trovo il numero di link image di una lettera
 		int numero= 0;
 		
 		for(int i = indice ; i < list.size() ; i++){	
@@ -154,8 +154,9 @@ public class LetterService implements ILetterService{
 	
 	
 	
-	private Vector<String> parseLetterLinkImageContent(List<String> listContentFile, int indice) {
-		Vector<String> link = new Vector<String>();
+	private ArrayList<String> parseLetterLinkImageContent(List<String> listContentFile, int indice) {
+		ArrayList<String> link = new ArrayList<String>();
+		//Creo un arrayList di lettere
 		int j = 0;
 		for(int i = 6 ; i <= 6+indice ; i++){	
 			String elementRow = listContentFile.get(i);
@@ -179,9 +180,14 @@ public class LetterService implements ILetterService{
 		
 		String text="";
 		
-		for (int i = indice; i < listContentFile.size(); i++) {
-			
-			text+=listContentFile.get(i);
+		if(listContentFile.get(indice).startsWith("Letter|")){
+			for (int i = indice; i < listContentFile.size(); i++) {
+				
+				text+=listContentFile.get(i);
+			}
+		}else{
+			System.out.println("A letter not start with Letter|");
+			System.exit(0);
 		}
 		
 		return text.replace("Letter|", "");

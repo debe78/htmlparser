@@ -3,27 +3,28 @@ Location|Nuenen
 Date|Tuesday, 30 December 1884
 To|Theo van Gogh
 From|Vincent van Gogh
-Museum|Amsterdam, Van Gogh Museum, inv. no. b429 V/1962
+Museum| Van Gogh Museum 
+Inventory|inv. no. b429 V/1962
 Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000574_01_nf.png
 Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000574_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let477/letter.html
 Letter|My dear Theo,
 Thanks for what you sent. I appreciate your doing it, because what really matters is to do a lot of work in the winter months, when models are easier to get.
-In 3 days or so you‚Äôll receive 12 little pen drawings after studies of heads. After all, I feel most at home when I work on a figure. And it also seems to me that there‚Äôs more character in, say, those heads I made back in The Hague and some other figures than in the other things I did. And it might perhaps be wise for me to concentrate even more exclusively on the figure.
-Only, the figure always stands somewhere, and one sometimes can‚Äôt help putting in the surroundings, their being indispensable.
-Ma wanted to write something here, so I‚Äôll keep it brief, because I‚Äôm sending you those pen drawings in the next few days anyway.
-I don‚Äôt know in advance what I‚Äôll do with these heads, but I want to derive the subject from the characters themselves.
-¬†
-I do know why I‚Äôm making them, though, and to what end in general.
-I‚Äôm curious to see that painting you got, sooner or later. I don‚Äôt exactly understand the legend itself ‚Äî what it‚Äôs getting at. Why I don‚Äôt is because you say: the figure is Dantean ‚Äî yet ‚Äî it‚Äôs the symbol of an evil spirit that lures people into the abyss. Surely the two can hardly go together, since the sober, austere figure of Dante, entirely filled with indignation and protest at what he had seen happen ‚Äî in protest at the atrocious medieval abuses and prejudices ‚Äî is certainly one of the most upright, most honest, most noble that are conceivable.
-In short ‚Äî people said of Dante, ‚Äòthere is the one who went into hell and who returned‚Äô ‚Äî something very different to go in oneself and come out again than to
-¬† lure others in satanically.
-Consequently ‚Äî one can‚Äôt have a Dante figure play a satanic role without a huge misconception of character.
-And the silhouette of a Mephistopheles is mightily different from Dante‚Äôs.
-In his own time, people wrote of Giotto, ‚Äòfirst he put ‚Äúgoodness‚Äù into the expression of human heads‚Äô. Giotto painted Dante, and with much emotion as you know, for you‚Äôre familiar with the old portrait.
-From which I draw the conclusion that Dante‚Äôs expression, however sad and melancholy, is essentially an expression of something infinitely good and tender.
-I therefore can‚Äôt imagine Satan or Mephistopheles as Dantean at all.
-So all the more reason why I‚Äôm curious to see what it looks like in the painting.
+In 3 days or so youëll receive 12 little pen drawings after studies of heads. After all, I feel most at home when I work on a figure. And it also seems to me that thereës more character in, say, those heads I made back in The Hague and some other figures than in the other things I did. And it might perhaps be wise for me to concentrate even more exclusively on the figure.
+Only, the figure always stands somewhere, and one sometimes canët help putting in the surroundings, their being indispensable.
+Ma wanted to write something here, so Iëll keep it brief, because Iëm sending you those pen drawings in the next few days anyway.
+I donët know in advance what Iëll do with these heads, but I want to derive the subject from the characters themselves.
+†
+I do know why Iëm making them, though, and to what end in general.
+Iëm curious to see that painting you got, sooner or later. I donët exactly understand the legend itself ó what itës getting at. Why I donët is because you say: the figure is Dantean ó yet ó itës the symbol of an evil spirit that lures people into the abyss. Surely the two can hardly go together, since the sober, austere figure of Dante, entirely filled with indignation and protest at what he had seen happen ó in protest at the atrocious medieval abuses and prejudices ó is certainly one of the most upright, most honest, most noble that are conceivable.
+In short ó people said of Dante, ëthere is the one who went into hell and who returnedë ó something very different to go in oneself and come out again than to
+† lure others in satanically.
+Consequently ó one canët have a Dante figure play a satanic role without a huge misconception of character.
+And the silhouette of a Mephistopheles is mightily different from Danteës.
+In his own time, people wrote of Giotto, ëfirst he put ìgoodnessî into the expression of human headsë. Giotto painted Dante, and with much emotion as you know, for youëre familiar with the old portrait.
+From which I draw the conclusion that Danteës expression, however sad and melancholy, is essentially an expression of something infinitely good and tender.
+I therefore canët imagine Satan or Mephistopheles as Dantean at all.
+So all the more reason why Iëm curious to see what it looks like in the painting.
 Best wishes for the New Year.
 Yours truly,
 Vincent

@@ -22,12 +22,10 @@ public class HtmlLetterParserTest {
 		
 		Assert.assertNotNull(htmlPageByUrl);
 		Assert.assertTrue((htmlPageByUrl.trim().length() > 0));
-		
-		System.out.println("htmlPageByUrl: "+htmlPageByUrl);
 
 		}catch(Exception e)
 		{
-			e.printStackTrace();
+			Assert.fail(e.getMessage());
 		}
 	}
 	

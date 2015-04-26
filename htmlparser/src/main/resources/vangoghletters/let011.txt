@@ -3,7 +3,8 @@ Location|London
 Date|Sunday, 20 July 1873
 To|Theo van Gogh
 From|Vincent van Gogh
-Museum|Amsterdam, Van Gogh Museum, inv. nos. b10 V/1962 (sheet 1) and b1457 V/1962 (sheet 2)
+Museum| Van Gogh Museum 
+Inventory|inv. nos. b10 V/1962 (sheet 1) and b1457 V/1962 (sheet 2)
 Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000010_01_nf.png
 Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000010_02_nf.png
 Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001001342_01_nf.png
@@ -11,31 +12,31 @@ Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001001342_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let011/letter.html
 Letter|London, 20 July 1873
 My dear Theo,
-Thanks for your letter, which gave me a great deal of pleasure. Iâ€™m glad youâ€™re well and that living at Mr Schmidtâ€™s is still to your liking. Mr Obach was pleased to make your acquaintance. I hope that in future weâ€™ll do a lot of business with you. That painting by Linder is very beautiful.
-As to the photogravure, I know more or less how theyâ€™re made, though I havenâ€™t seen it, and it isnâ€™t clear enough to me to explain it.
-English art didnâ€™t appeal to me much at first, one has to get used to it. There are some good painters here, though, including Millais, who made â€˜The Huguenotâ€™, Ophelia, &amp;c., engravings of which you probably know, theyâ€™re very beautiful. Then Boughton, of whom you know the â€˜Puritans going to churchâ€™
-Â  in our Galerie photographique. Iâ€™ve seen very beautiful things by him. Moreover, among the old painters, Constable, a landscape painter who lived around 30 years ago, whose work is splendid, something like Diaz and Daubigny. And Reynolds and Gainsborough, who mostly painted very, very beautiful portraits of women, and then Turner, after whom youâ€™ll probably have seen engravings.
+Thanks for your letter, which gave me a great deal of pleasure. I‘m glad you‘re well and that living at Mr Schmidt‘s is still to your liking. Mr Obach was pleased to make your acquaintance. I hope that in future we‘ll do a lot of business with you. That painting by Linder is very beautiful.
+As to the photogravure, I know more or less how they‘re made, though I haven‘t seen it, and it isn‘t clear enough to me to explain it.
+English art didn‘t appeal to me much at first, one has to get used to it. There are some good painters here, though, including Millais, who made ‘The Huguenot‘, Ophelia, &c., engravings of which you probably know, they‘re very beautiful. Then Boughton, of whom you know the ‘Puritans going to church‘
+  in our Galerie photographique. I‘ve seen very beautiful things by him. Moreover, among the old painters, Constable, a landscape painter who lived around 30 years ago, whose work is splendid, something like Diaz and Daubigny. And Reynolds and Gainsborough, who mostly painted very, very beautiful portraits of women, and then Turner, after whom you‘ll probably have seen engravings.
 Several good French painters live here, including Tissot, after whom there are various photos in our Galerie photographique, Otto Weber and Heilbuth. The latter is currently making dazzlingly beautiful paintings in the style of the one by Linder.
 Be sure, when you get the chance, to write and tell me whether there are photographs after Wauters, besides Hugo van der Goes and Mary of Burgundy, and whether you also know photographs of paintings by Lagye and De Braekeleer.
-Â  Itâ€™s not the elder De Braekeleer I mean but, I believe, a son of his, who had 3 splendid paintings at the last exhibition in Brussels, titled â€˜Antwerpâ€™, â€˜The schoolâ€™ and â€˜The atlasâ€™.
-Things are going well for me here. I go walking a lot. Here where I live itâ€™s a quiet, convivial, nice-looking neighbourhood, in this Iâ€™ve really been fortunate. And yet I sometimes think back with nostalgia to the wonderful Sundays in Scheveningen and so on, but never mind that.
-Youâ€™ll surely have heard that Anna is at home and not well. Itâ€™s a bad start to her holiday, but letâ€™s hope sheâ€™s better by now.
-Thanks for what you wrote to me about paintings. Be sure to write and tell me if you ever see anything by Lagye, De Braekeleer, Wauters, Maris, Tissot, George Saal, Jundt, Ziem, Mauve, who are painters I like very much, and by whom youâ€™ll probably
-Â  see something now and then.
-Herewith a copy of that poem about that painter â€˜who entered The Swan, the inn where he boardedâ€™, which you no doubt remember. Itâ€™s Brabant to a T, and Iâ€™m so fond of it. Lies copied it out for me on my last evening at home. How much Iâ€™d like to have you here, what pleasant days we spent together in The Hague. I still think so often of our walk on Rijswijkseweg, where we drank milk at the mill after the rain. If those paintings we have from you are to be sent back, Iâ€™ll send you a portrait of that mill by Weissenbruch. Perhaps you remember, â€˜the merry tuneâ€™ is his nickname, â€˜I say, superrrbâ€™. That Rijswijkseweg holds memories for me which are perhaps the most delightful I have. Perhaps weâ€™ll speak of it again sometime when we meet.
-And now, old chap, I wish you well, think of me from time to time and write to me soon. Itâ€™s so refreshing when I receive a letter.
+  It‘s not the elder De Braekeleer I mean but, I believe, a son of his, who had 3 splendid paintings at the last exhibition in Brussels, titled ‘Antwerp‘, ‘The school‘ and ‘The atlas‘.
+Things are going well for me here. I go walking a lot. Here where I live it‘s a quiet, convivial, nice-looking neighbourhood, in this I‘ve really been fortunate. And yet I sometimes think back with nostalgia to the wonderful Sundays in Scheveningen and so on, but never mind that.
+You‘ll surely have heard that Anna is at home and not well. It‘s a bad start to her holiday, but let‘s hope she‘s better by now.
+Thanks for what you wrote to me about paintings. Be sure to write and tell me if you ever see anything by Lagye, De Braekeleer, Wauters, Maris, Tissot, George Saal, Jundt, Ziem, Mauve, who are painters I like very much, and by whom you‘ll probably
+  see something now and then.
+Herewith a copy of that poem about that painter ‘who entered The Swan, the inn where he boarded‘, which you no doubt remember. It‘s Brabant to a T, and I‘m so fond of it. Lies copied it out for me on my last evening at home. How much I‘d like to have you here, what pleasant days we spent together in The Hague. I still think so often of our walk on Rijswijkseweg, where we drank milk at the mill after the rain. If those paintings we have from you are to be sent back, I‘ll send you a portrait of that mill by Weissenbruch. Perhaps you remember, ‘the merry tune‘ is his nickname, ‘I say, superrrb‘. That Rijswijkseweg holds memories for me which are perhaps the most delightful I have. Perhaps we‘ll speak of it again sometime when we meet.
+And now, old chap, I wish you well, think of me from time to time and write to me soon. It‘s so refreshing when I receive a letter.
 Vincent
 My regards to Mr Schmidt and Eduard. How are Uncle Hein and Aunt? Write to me about them, do you go there often? Give them my warm regards.
-Â 
+ 
 The evening hour.
-Slowly the toll of the angelus-bell resounded oâ€™er the fields,
+Slowly the toll of the angelus-bell resounded o‘er the fields,
 As they blissfully bathed in the gold of the evening sun.
 O solemn, moving moment! When every mother in the village suddenly
 Stops the whirring of the wheel to bless herself with the sign of the cross;
 While in the field the farmer reins in his steaming horses,
 And, behind the plough, bares his head to murmur an Ave.
 O solemn, moving moment! When the bell that proclaims far and wide
-The end of the dayâ€™s work makes those powerful, dripping heads
+The end of the day‘s work makes those powerful, dripping heads
 Bow down for Him who causes the sweat in the furrow to thrive.
 For the artist, too, on the slope of yon shady hill,
 Absorbed in his painting from the earliest morning,
@@ -54,28 +55,28 @@ Was now silent. Hanging motionless on high were the brown
 Sails of the windmill; the leaves stood still and above the huts
 Blue clouds of peat-smoke ascended so straight from the chimneys
 That they, too, seemed to hang motionless in the shimmering air.
-â€™Twas as though this village, this field, those hills, as though everything,
+‘Twas as though this village, this field, those hills, as though everything,
 Before wrapping itself in a cloak of evening dew to sleep
-Beneath the sunâ€™s parting kiss, silently and gratefully
+Beneath the sun‘s parting kiss, silently and gratefully
 Recalled once more the peace and plenty it had again savoured.
 Soon, though, this silence was gently disturbed by the sweet sounds
 Of the evening. In the distance, from a hollow in the hill echoed
 Lingeringly the sound of the cow-horn, calling the cattle.
 And at this sign from their herdsman there soon appeared in the furrowed
 Sandy mountain road the whole of a colourful herd of cows.
-Cracking and smacking, the ladâ€™s lash drove them forward,
+Cracking and smacking, the lad‘s lash drove them forward,
 While they, as if by turns, their necks outstretched, with friendly lowing
 Greeted from afar the cow-shed where the milkmaid
 Waited for them each evening to ease their taut udders.
 Thus on the paths running out from the village like spokes
 From an axle, there slowly came movement and life.
-Here, â€™twas a farmer, dragging homeward a harrow or plough
+Here, ‘twas a farmer, dragging homeward a harrow or plough
 On a sledge, whistling a tune and riding beside on his bay;
-Â 
+ 
 There, a blushing lass, on her head a lock of sweet clover
 Laced with daisies and poppies, called from afar to the others,
-Kindly and gaily at once, her clear-toned â€˜good eveningâ€™.
-Further... But on the same track where the painterâ€™s path
+Kindly and gaily at once, her clear-toned ‘good evening‘.
+Further... But on the same track where the painter‘s path
 Led, he suddenly heard peals of joyous laughter.
 Rocking from side to side, a wagon, nearly toppling
 Under its load of fresh-harvested buckwheat, came rumbling closer,
@@ -87,13 +88,13 @@ While round the wagon a troop of country lads and lasses
 Skipped and sang enough to startle the whole drowsy plain.
 Quietly smiling, the Painter, from behind the thicket,
 Watched as the revellers slowly wound their way down the rutted road.
-â€˜Ayeâ€™, he thus mumbled, â€˜Aye, the Lord must think it
+‘Aye‘, he thus mumbled, ‘Aye, the Lord must think it
 A happy sound, the jubilance with which these hearts
 So simply pour forth their thanks as they gather the last
 Fruits, which He yearly lets grow fully ripe from their toil.
-Yea, for the purest prayer of simplicity and innocence is joy!â€™
+Yea, for the purest prayer of simplicity and innocence is joy!‘
 And thus contemplating the calm, deep delight upon which the soul
-Feasts in the fields; or with his artistâ€™s mind reconstructing
+Feasts in the fields; or with his artist‘s mind reconstructing
 In silent rapture the glorious scene of a moment ago,
 He found he had sauntered, unnoticing, into the village.
 Already the purple and yellow had faded to grey in the west,

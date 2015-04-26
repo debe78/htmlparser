@@ -30,12 +30,12 @@ public class LetterServiceTest {
 	@Test
 	public void testSaveNumericUrlVanGoghLetters(){
 		
-		ILetterService letterService = new LetterService();
+		LetterService letterService = new DefaultLetterService();
 		VanGoghLetterHtmlParser vanGoghLetterHtmlParser = new VanGoghLetterHtmlParser();
 		
 		try{
 		
-		  FileUtils.cleanDirectory(Paths.get("/home/larus/Progetti/Git/htmlparser/htmlparser/src/main/resources/vangoghletters").toFile());
+		  FileUtils.cleanDirectory(Paths.get("K:\\Progetti\\ArtProject\\Software\\Git\\htmlparser\\htmlparser\\src\\main\\resources\\vangoghletters").toFile());
 		}
 		catch(IOException e){
 			
@@ -61,7 +61,7 @@ public class LetterServiceTest {
 		
 		
 		@SuppressWarnings("rawtypes")
-		Collection listFiles = FileUtils.listFiles(Paths.get("/home/larus/Progetti/Git/htmlparser/htmlparser/src/main/resources/vangoghletters").toFile(), null, false);
+		Collection listFiles = FileUtils.listFiles(Paths.get("K:\\Progetti\\ArtProject\\Software\\Git\\htmlparser\\htmlparser\\src\\main\\resources\\vangoghletters").toFile(), null, false);
 		Assert.assertTrue(listFiles.size() > 0);
 		Assert.assertEquals(902, listFiles.size());
 	}
@@ -70,7 +70,7 @@ public class LetterServiceTest {
 	@Test
 	public void testSaveNonNumericUrlVanGoghLetters(){
 		
-		ILetterService letterService = new LetterService();
+		LetterService letterService = new DefaultLetterService();
 		VanGoghLetterHtmlParser vanGoghLetterHtmlParser = new VanGoghLetterHtmlParser();
 		
 		
@@ -98,7 +98,7 @@ public class LetterServiceTest {
 		
 		
 		@SuppressWarnings("rawtypes")
-		Collection listFiles = FileUtils.listFiles(Paths.get("/home/larus/Progetti/Git/htmlparser/htmlparser/src/main/resources/vangoghletters").toFile(), null, false);
+		Collection listFiles = FileUtils.listFiles(Paths.get("K:\\Progetti\\ArtProject\\Software\\Git\\htmlparser\\htmlparser\\src\\main\\resources\\vangoghletters").toFile(), null, false);
 		Assert.assertTrue(listFiles.size() > 0);
 		Assert.assertEquals(928, listFiles.size());
 	}
@@ -106,22 +106,25 @@ public class LetterServiceTest {
 	@Test
 	public void testLetterList(){
 		
-		ILetterService letterService = new LetterService();
+		LetterService letterService = new DefaultLetterService();
 		
 		try {
 			
-		  List<Letter> lettersFromPath = letterService.getLettersFromPath(Paths.get("/home/larus/Progetti/Git/htmlparser/htmlparser/src/main/resources/vangoghletters"));
+		  List<Letter> lettersFromPath = letterService.getLettersFromPath(Paths.get("K:\\Progetti\\ArtProject\\Software\\Git\\htmlparser\\htmlparser\\src\\main\\resources\\vangoghletters"));
 		  Assert.assertNotNull(lettersFromPath);
 		  Assert.assertEquals(928, lettersFromPath.size());
 
 		  for (Letter letter : lettersFromPath) {
 			
-//				System.out.println("Location: "+letter.getPlace()+"\n");
-//				System.out.println("Date: "+letter.getDate()+"\n");
-//				System.out.println("From: "+letter.getFrom()+"\n");
-//				System.out.println("To: "+letter.getTo()+"\n");
-//				System.out.println("Url: "+letter.getUrl()+"\n");
-//				System.out.println("Testo: \n"+letter.getText()+"\n");
+//				System.out.println("Location: "+letter.getPlace());
+//				System.out.println("Date: "+letter.getDate());
+//				System.out.println("From: "+letter.getFrom());
+//				System.out.println("To: "+letter.getTo());
+//				System.out.println("Link: "+letter.getLink());
+//				System.out.println("Url: "+letter.getUrl());
+//				System.out.println("Testo: \n"+letter.getText());
+			    System.out.println("Museum: "+letter.getMuseum());
+//			    System.out.println("Inventory: "+letter.getInventory());
 //				System.out.println("----------------------------------------------------\n");
 			  
 			  
@@ -132,41 +135,13 @@ public class LetterServiceTest {
 			  Assert.assertTrue(letter.getTitle().trim().length() != 0);
 			  Assert.assertTrue(letter.getUrl().trim().length() != 0);
 			  Assert.assertTrue(letter.getText().trim().length() != 0);
-			  if(!letter.getUrl().equals("http://vangoghletters.org/vg/letters/let015/letter.html")){ 
-				  Assert.assertTrue(letter.getMuseum().trim().length() != 0);
-			  }  
+//			  if(!letter.getUrl().equals("http://vangoghletters.org/vg/letters/let015/letter.html")){ 
+//				  Assert.assertTrue(letter.getMuseum().trim().length() != 0);
+//			  }  
 			  Assert.assertTrue(letter.getLink().size() != 0);
 			  
-//			  if(letter.getDate().trim().length()==0){
-//				  
-//				 System.out.println("Lettera senza data: "+letter.getUrl()); 
-//			  }
-//			  if(letter.getTo().trim().length()==0){
-//				  
-//					 System.out.println("Lettera senza To: "+letter.getUrl()); 
-//			  }
-//			  if(letter.getFrom().trim().length()==0){
-//				  
-//					 System.out.println("Lettera senza From: "+letter.getUrl()); 
-//			  }
-//			  if(letter.getPlace().trim().length()==0){
-//				  
-//					 System.out.println("Lettera senza Luogo: "+letter.getUrl()); 
-//			  }
-//			  if(letter.getTitle().trim().length()==0){
-//				  
-//					 System.out.println("Lettera senza Titolo: "+letter.getUrl()); 
-//			  }
-//			  if(!letter.getUrl().equals("http://vangoghletters.org/vg/letters/let015/letter.html")){
-//				  if(letter.getMuseum().trim().length() == 0 ){
-//					  
-//						 System.out.println("Lettera senza Museo: "+letter.getUrl()); 
-//				  }    
-//			  }
-//			  if(letter.getLink().size() == 0){
-//				  
-//					 System.out.println("Lettera senza Url Immagine: "+letter.getUrl()); 
-//			  }
+			  Assert.assertFalse(letter.getText().contains("&amp;"));
+			  Assert.assertFalse(letter.getText().contains("’"));
 		}
 		  
 		  
@@ -182,7 +157,7 @@ public class LetterServiceTest {
 	 * @param vanGoghLetterHtmlParser
 	 * @param numeroLettera
 	 */
-	private void saveLetterOnFile(ILetterService letterService,
+	private void saveLetterOnFile(LetterService letterService,
 			VanGoghLetterHtmlParser vanGoghLetterHtmlParser,
 			String numeroLettera,URL url) {
 		try {
@@ -193,7 +168,7 @@ public class LetterServiceTest {
 			
 			Letter letter = vanGoghLetterHtmlParser.getLetter(url);
 			
-			Path path = Paths.get("/home/larus/Progetti/Git/htmlparser/htmlparser/src/main/resources/vangoghletters/let"+numeroLettera+".txt");
+			Path path = Paths.get("K:\\Progetti\\ArtProject\\Software\\Git\\htmlparser\\htmlparser\\src\\main\\resources\\vangoghletters\\let"+numeroLettera+".txt");
 			letterService.saveLetterFromUrl(letter, path);
 			
 	  	  } catch (Exception e) {

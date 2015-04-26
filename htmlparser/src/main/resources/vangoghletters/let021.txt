@@ -3,19 +3,20 @@ Location|London
 Date|Monday, 30 March 1874
 To|Theo van Gogh
 From|Vincent van Gogh
-Museum|Amsterdam, Van Gogh Museum, inv. no. b15 V/1962
+Museum| Van Gogh Museum 
+Inventory|inv. no. b15 V/1962
 Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000015_01_nf.png
 Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000015_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let021/letter.html
 Letter|London, 30 March 1874
 My dear Theo,
-In a letter from Pa and Ma I got a guilder from you to buy a pair of cuff links. Many thanks, old chap, but you shouldnâ€™t have done it, you need your money more than I do.
-Thanks for your letter of this morning. I was very glad to hear that Mauve is engaged to Jet C. Thatâ€™s wonderful. Iâ€™m glad that youâ€™re so well.
-Itâ€™s good that youâ€™ve read the book by BÃ¼rger; read about art as much as possible, especially the Gazette des Beaux-Arts &amp;c.
-Â 
+In a letter from Pa and Ma I got a guilder from you to buy a pair of cuff links. Many thanks, old chap, but you shouldn‘t have done it, you need your money more than I do.
+Thanks for your letter of this morning. I was very glad to hear that Mauve is engaged to Jet C. That‘s wonderful. I‘m glad that you‘re so well.
+It‘s good that you‘ve read the book by Bürger; read about art as much as possible, especially the Gazette des Beaux-Arts &c.
+ 
 Above all, be sure to find out as much as possible about paintings. The Apol that we have here now is very beautiful, last year he painted a similar subject and I found it better and fresher than this one.
-Iâ€™m glad that you go to Uncle Corâ€™s occasionally. You see things there that you never find at the gallery in The Hague.
-Iâ€™m also busy at present and am glad of it, because thatâ€™s what I need.
+I‘m glad that you go to Uncle Cor‘s occasionally. You see things there that you never find at the gallery in The Hague.
+I‘m also busy at present and am glad of it, because that‘s what I need.
 Adieu, old chap, keep your chin up, and I wish you well. Give my regards to Van Iterson.
 Vincent
-As regards Anna, I havenâ€™t heard anything more.
+As regards Anna, I haven‘t heard anything more.

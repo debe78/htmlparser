@@ -3,17 +3,18 @@ Location|Paris
 Date|Wednesday, 29 January 1890
 To|Vincent van Gogh
 From|Jo van Gogh-Bonger
-Museum|Amsterdam, Van Gogh Museum, inv. no. b753 V/1962
+Museum| Van Gogh Museum 
+Inventory|inv. no. b753 V/1962
 Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001001021_01_nf.png
 Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001001021_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let845/letter.html
 Letter|Wednesday evening
 Dear Vincent,
-Iâ€™ve been meaning to write to you day after day since Christmas â€” thereâ€™s even a half-finished letter to you in my writing-case â€” and now â€” if I donâ€™t make haste to write this note youâ€™d get the news that your namesake was here â€” before then I just want to bid you good-day.
-Itâ€™s just midnight â€” the doctorâ€™s sleeping for a while because he wanted to stay here tonight. Theo, Ma and Wil are sitting at the table with me â€” awaiting the things that will come â€” itâ€™s a strange feeling â€” always that wondering â€” will
-Â  the baby be here tomorrow morning? I canâ€™t write much â€” but I so much wanted just to talk to you for a moment.
-This morning Theo brought in the article in the Mercure, and after weâ€™d read it Wil and I talked about you for a long time â€” Iâ€™m so longing for your next letter, which Theo is also looking forward to. Shall I read it? But everything has gone so well up to now â€” Iâ€™ll just keep my spirits up. This evening â€” all these last few days in fact â€” Iâ€™ve thought about it so much, whether I really have been able to do something to
-Â  make Theo happy in his marriage. Heâ€™s done it for me. Heâ€™s been so good to me; so good â€” if things donâ€™t go well â€” if I have to leave him â€” you tell him â€” for thereâ€™s no one in the world whom he loves as much â€” that he must never regret that we were married, because heâ€™s made me so happy. It sounds sentimental â€” a message like this â€” but I canâ€™t tell him now â€” half of my company has gone to bed, him too because he was so tired. Oh if only I
-Â  can just give him a dear, healthy little boy, wouldnâ€™t that make him happy? Iâ€™ll just close, because I keep having waves of pain which mean that I canâ€™t think or write properly. When you get this it will all be over.
+I‘ve been meaning to write to you day after day since Christmas — there‘s even a half-finished letter to you in my writing-case — and now — if I don‘t make haste to write this note you‘d get the news that your namesake was here — before then I just want to bid you good-day.
+It‘s just midnight — the doctor‘s sleeping for a while because he wanted to stay here tonight. Theo, Ma and Wil are sitting at the table with me — awaiting the things that will come — it‘s a strange feeling — always that wondering — will
+  the baby be here tomorrow morning? I can‘t write much — but I so much wanted just to talk to you for a moment.
+This morning Theo brought in the article in the Mercure, and after we‘d read it Wil and I talked about you for a long time — I‘m so longing for your next letter, which Theo is also looking forward to. Shall I read it? But everything has gone so well up to now — I‘ll just keep my spirits up. This evening — all these last few days in fact — I‘ve thought about it so much, whether I really have been able to do something to
+  make Theo happy in his marriage. He‘s done it for me. He‘s been so good to me; so good — if things don‘t go well — if I have to leave him — you tell him — for there‘s no one in the world whom he loves as much — that he must never regret that we were married, because he‘s made me so happy. It sounds sentimental — a message like this — but I can‘t tell him now — half of my company has gone to bed, him too because he was so tired. Oh if only I
+  can just give him a dear, healthy little boy, wouldn‘t that make him happy? I‘ll just close, because I keep having waves of pain which mean that I can‘t think or write properly. When you get this it will all be over.
 Believe me, your loving
 Jo

@@ -3,7 +3,8 @@ Location|Nuenen
 Date|on or about Sunday, 2 March 1884
 To|Anthon van Rappard
 From|Vincent van Gogh
-Museum|Amsterdam, Van Gogh Museum, inv. nos. b8373 a-b V/2006 (sheets 1, 2), location unknown (sheet 3), private collection (sheet 4)
+Museum| Van Gogh Museum 
+Inventory|inv. nos. b8373 a-b V/2006 (sheets 1, 2), location unknown (sheet 3), private collection (sheet 4)
 Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001001629_01_nf.png
 Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001001629_02_nf.png
 Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001001630_01_nf.png
@@ -12,21 +13,21 @@ Link image 5|http://vangoghletters.org/vg/facsimiles/433_3rf.png
 Link image 6|http://vangoghletters.org/vg/facsimiles/433_4rf.png
 Url letter|http://vangoghletters.org/vg/letters/let433/letter.html
 Letter|My dear friend Rappard,
-Here are some of the poems by CoppÃ©e that I promised to send you. Tristement reminds me of a poplar avenue by Hippolyte Boulenger â€” the VallÃ©e de Josaphat, I think. What an autumnal mood it conveys.
-I thought that youâ€™d like them too.
-Thereâ€™s much, much more in the little volume; I just took things from it here and there.
-Have painted a few studies outdoors these last few days, Iâ€™m sending you a croquis of one of them.
-My continues to do well â€” the fracture has set and the plaster is off. All the same, sheâ€™ll still have to keep the leg horizontal for another 6 weeks or so. Yesterday, though, we carried her into the living room on a sort of stretcher, and later on she can be taken out into the open air now and again in the same way.
-With these poems by CoppÃ©e Iâ€™m adding an Arabian fable that I found this week in a piece by Lesseps, Voyage dans le Soudan. I liked the idea, and I believe it can be thus. Viewed thus, men donâ€™t play a very noble role â€” well, but that is in fact the case. It doesnâ€™t apply in general, though, because........ does the candle burn for the sake of the moth? If one knew that â€” well then â€” it might well be worthwhile committing suicide that way.
-Â 
-If, though, the candle itself were to snigger at the burned wings â€” â€” â€” â€”.
-But however that may be, it struck me. And â€” I always believe that in the depths there are these things â€” that would rend our hearts if we knew them. There are moments when one is wholly disenchanted with people â€” oneâ€™s own self included, of course â€” yet â€” chiefly because one will perish soon enough, after all, it really isnâ€™t worthwhile persisting in oneâ€™s displeasure, even if it were well-founded.
+Here are some of the poems by Coppée that I promised to send you. Tristement reminds me of a poplar avenue by Hippolyte Boulenger — the Vallée de Josaphat, I think. What an autumnal mood it conveys.
+I thought that you‘d like them too.
+There‘s much, much more in the little volume; I just took things from it here and there.
+Have painted a few studies outdoors these last few days, I‘m sending you a croquis of one of them.
+My continues to do well — the fracture has set and the plaster is off. All the same, she‘ll still have to keep the leg horizontal for another 6 weeks or so. Yesterday, though, we carried her into the living room on a sort of stretcher, and later on she can be taken out into the open air now and again in the same way.
+With these poems by Coppée I‘m adding an Arabian fable that I found this week in a piece by Lesseps, Voyage dans le Soudan. I liked the idea, and I believe it can be thus. Viewed thus, men don‘t play a very noble role — well, but that is in fact the case. It doesn‘t apply in general, though, because........ does the candle burn for the sake of the moth? If one knew that — well then — it might well be worthwhile committing suicide that way.
+ 
+If, though, the candle itself were to snigger at the burned wings — — — —.
+But however that may be, it struck me. And — I always believe that in the depths there are these things — that would rend our hearts if we knew them. There are moments when one is wholly disenchanted with people — one‘s own self included, of course — yet — chiefly because one will perish soon enough, after all, it really isn‘t worthwhile persisting in one‘s displeasure, even if it were well-founded.
 And should our ideas about the worthlessness of humanity be unfounded, our mistake is all the worse for ourselves. In my view, the worst evil of all evils is self-righteousness, and eradicating it in oneself a never-ending weeding job.
 All the more difficult for us Dutchmen, because so often our upbringing itself must inevitably make us become self-righteous to a very high degree. But not to harp on about it.
-I say to you once more that my idea about the drawings and that I ask you, show them if you get the opportunity, is based on things that arenâ€™t really my fault â€” Iâ€™m quite often reproached â€˜that I donâ€™t sellâ€™. Quite often asked: why others do sell and I donâ€™t. I reply that I do hope to sell in time, but believe that I can most directly influence this by working on steadily, and that at the moment any â€˜working at itâ€™ to sell my current work would yield little. Consequently that itâ€™s a question that doesnâ€™t really interest me one way or the other, my attention being on making progress. All the same, both because people sometimes reproach me about it, and because Iâ€™m sometimes hard-pressed by difficulties in getting by, I may not neglect anything that is even the slightest chance to sell something. But again, it goes without saying that Iâ€™m prepared for its not yielding anything immediately. For my part, though, itâ€™s something that stimulates me to show my work to a few people, now that Iâ€™ve finally made a start on it (perhaps thatâ€™s very odd of me). Regards, with a handshake.
+I say to you once more that my idea about the drawings and that I ask you, show them if you get the opportunity, is based on things that aren‘t really my fault — I‘m quite often reproached ‘that I don‘t sell‘. Quite often asked: why others do sell and I don‘t. I reply that I do hope to sell in time, but believe that I can most directly influence this by working on steadily, and that at the moment any ‘working at it‘ to sell my current work would yield little. Consequently that it‘s a question that doesn‘t really interest me one way or the other, my attention being on making progress. All the same, both because people sometimes reproach me about it, and because I‘m sometimes hard-pressed by difficulties in getting by, I may not neglect anything that is even the slightest chance to sell something. But again, it goes without saying that I‘m prepared for its not yielding anything immediately. For my part, though, it‘s something that stimulates me to show my work to a few people, now that I‘ve finally made a start on it (perhaps that‘s very odd of me). Regards, with a handshake.
 Ever yours,
 Vincent
-Â 
+ 
 Sadly
 Obsessed by these words, widowhood and autumn,
 My reverie seeks no other to express
@@ -48,15 +49,15 @@ And so she walks across the faded grass,
 Weary of wishing, weary of submitting,
 And always in her path, the plane-tree leaves
 Fall with a sound as sad as sighs.
-â€” In vain â€” to chase away these gloomy images
+— In vain — to chase away these gloomy images
 Do I call up my youth, and that splendid summer.
 I do not trust the sun, no more believe the roses,
 And go about, head lowered, like a haunted man.
-My heartâ€™s so full of autumn and of widowhood
-That I forever dream, under a pure, clear sky â€”
-Of one in mourning â€” in a chill landscape,
-And the leaves falling at first winterâ€™s wind.
-Â 
+My heart‘s so full of autumn and of widowhood
+That I forever dream, under a pure, clear sky —
+Of one in mourning — in a chill landscape,
+And the leaves falling at first winter‘s wind.
+ 
 To a Second lieutenant
 You carry, my handsome officer,
 With perfect grace,
@@ -64,15 +65,15 @@ Your sword with hilt of steel,
 But I think of our defeat.
 This pelisse of finest stuff
 Sets off your figure perfectly;
-Youâ€™re charming; but after all
+You‘re charming; but after all
 We lost the battle.
 We read your intrepidity
 In your black eyes under their slender brows.
-Nothing wrong with wearing fancy gloves â€”
+Nothing wrong with wearing fancy gloves —
 But, they took two provinces from us.
-At your age oneâ€™s always proud
+At your age one‘s always proud
 Of a little bit of braid;
-But â€” do you see â€” â€™twas yesterday
+But — do you see — ‘twas yesterday
 They maimed our motherland.
 Lieutenant, I do not know
 If of an evening, a finger to your brow,
@@ -84,135 +85,135 @@ I wish to believe that, and would fight off
 A doubt that fills me with despair.
 Stripes on your sleeve, on your way,
 Is it of deliverance you think?
-â€” Young man, give me your hand,
-Letâ€™s give a little shout â€” â€˜Vive la France!â€™
+— Young man, give me your hand,
+Let‘s give a little shout — ‘Vive la France!‘
 Arabian tale
-A moth was in love with a candle. Ever drawn towards it, it would come close to it. But as soon as the tip of its wing received a slight blow it would retreat, throwing itself at the cruel oneâ€™s feet and filling the air with its cries and groans. In the meantime the candle burned down â€” before giving out its last burst of light, it said to its suitor:
-Moth â€” you have made a great deal of noise over a few blows to the tips of your wings, you have unjustly reproached me; I have loved you in silence; my flame is about to go out. I am dying â€” farewell â€” fly off to other loves.
-Â 
+A moth was in love with a candle. Ever drawn towards it, it would come close to it. But as soon as the tip of its wing received a slight blow it would retreat, throwing itself at the cruel one‘s feet and filling the air with its cries and groans. In the meantime the candle burned down — before giving out its last burst of light, it said to its suitor:
+Moth — you have made a great deal of noise over a few blows to the tips of your wings, you have unjustly reproached me; I have loved you in silence; my flame is about to go out. I am dying — farewell — fly off to other loves.
+ 
 The lost dog
 When we go home, at night, through empty city streets,
 And see upon the wet, green, greasy mud
 Long streaks of gaslight, more of them every day,
 Often a stray dog with matted coat, a dreadful, doleful sight,
 An old dog from hereabouts, which its master, penniless,
-Has thrown out with a kick â€” perhaps mourning it â€”
+Has thrown out with a kick — perhaps mourning it —
 Will stick its stubborn nose into your heels,
 And if you should turn back, give you a look,
-And what a look â€” long, fearful, all cajolery,
-A mistressâ€™s, a poor manâ€™s touching gaze,
+And what a look — long, fearful, all cajolery,
+A mistress‘s, a poor man‘s touching gaze,
 Yet hopeless, with that uncertain air belonging to
 A woman scorned and a poor man who feels his shame.
-And if you stop, heâ€™ll stop with you, and
+And if you stop, he‘ll stop with you, and
 Feebly wag his wet and drooping tail,
 Timid, knowing his fate lies in your hands.
-He seems to say: â€˜Come on â€” take me with you â€” please?â€™
-Weâ€™re moved â€” and yet we donâ€™t quite dare;
-Weâ€™re poor ourselves â€” and rabies is a fearful thing.
-And then â€” unkindly â€” making as if to raise
-Our stick â€” we tell the dog: â€˜Go on, be off with you!â€™
-And â€” all contrite â€” he goes to plead his cause elsewhere.
-Ill-omened meeting â€” and what times are these,
+He seems to say: ‘Come on — take me with you — please?‘
+We‘re moved — and yet we don‘t quite dare;
+We‘re poor ourselves — and rabies is a fearful thing.
+And then — unkindly — making as if to raise
+Our stick — we tell the dog: ‘Go on, be off with you!‘
+And — all contrite — he goes to plead his cause elsewhere.
+Ill-omened meeting — and what times are these,
 These savage Prussians, what they have done to us,
 (or, failing Prussians, drunken sots)
 That the poorest folk now cast their dogs aside,
 And when, distracted from the public show of grief, we must yet
-Pity these animals â€” who turn upon us their imploring gaze.
+Pity these animals — who turn upon us their imploring gaze.
 At the ambulance
-Disturbing the conventâ€™s silence,
+Disturbing the convent‘s silence,
 With its urgent noise
 Arrives an ambulance.
-Theyâ€™re bringing in a wounded soldier.
+They‘re bringing in a wounded soldier.
 Blood glistening on his army coat,
 He limps, shattered by a shell,
 Using his rifle as a crutch
 To climb down from the wagon.
-Itâ€™s an old man with great moustaches,
+It‘s an old man with great moustaches,
 Three stripes upon his sleeve,
 Who hates hypocrites and prudes
 And starts by letting out an oath.
 He makes improper overtures,
-His way of lookingâ€™s almost insulting,
+His way of looking‘s almost insulting,
 Bringing a blush, under their horned headdresses,
 To the cheeks of 18-year-old novices.
-If the Sister, thinking heâ€™s asleep and sheâ€™s alone,
+If the Sister, thinking he‘s asleep and she‘s alone,
 Prays by his bed,
-Quickly heâ€™ll fill his old clay pipe
+Quickly he‘ll fill his old clay pipe
 And whistle with an air of boredom.
-Whatâ€™s it to him if constantly
+What‘s it to him if constantly
 They watch and pray for him?
 He knows his leg is lost
-And that theyâ€™re going to hack it off.
-Heâ€™s wild with rage â€” Leave him alone;
-Weâ€™re very patient here;
-And thereâ€™s an atmosphere
+And that they‘re going to hack it off.
+He‘s wild with rage — Leave him alone;
+We‘re very patient here;
+And there‘s an atmosphere
 That consoles, and masters, too.
-The influence is slow â€” but sure,
+The influence is slow — but sure,
 Of these obedient servants of their vows,
 Gentle when they dress his wound
 And gentle, talking of God.
-â€” So â€” feeling, in his own way,
+— So — feeling, in his own way,
 That subtle, pious charm,
 The veteran, to every prayer,
 Soon will say: Thy will be done!
-Â 
+ 
 The novice
 When all her pain, all her regrets had died,
 And she had lost her last deceiving hope,
 Resigned, she went to seek in convent walls
-The calm thatâ€™s prologue to eternal life.
+The calm that‘s prologue to eternal life.
 Rosary swinging at her flannel skirts,
-And pale â€” often would she come and walk
+And pale — often would she come and walk
 Here in the garden, sheltered from the wind,
 Where no flower bloomed, all cabbage-beds and overhanging vines.
 Yet one day, in that garden did she pluck
 A flower whose scent exhaled a worldly memory,
-Which grew there despite submissionâ€™s vows.
-She breathed it in at length, then â€” as evening fell,
+Which grew there despite submission‘s vows.
+She breathed it in at length, then — as evening fell,
 In sanctity, her conscience now at rest,
 She died, the way an incense-burner gives up life.
 Evermore
 Divine hope that two together come to form
 And two together share,
-The hope to love long, love always â€” love
+The hope to love long, love always — love
 More dearly every day;
 Desire eternal, touching and chimerical,
 That lovers sigh,
 When, blissful moment, searching each other out,
 Their lips exchange a mutual breath.
-That vain, illusory desire â€” that cheating hope,
+That vain, illusory desire — that cheating hope,
 Whereof we never spoke;
 It pains me to see we are afraid of it,
 Though it be in our soul.
 And when to your questioning, I, your sweetheart
 Murmur a soft response,
-â€™Tis the word: â€” Evermore! â€” thatâ€™s on my lips
+‘Tis the word: — Evermore! — that‘s on my lips
 Without my uttering it.
 And though its dear echo sounds within your heart,
 Your silence is the same
 When on your breast, languorous unto death,
 I swear I love you.
-What signifies the past â€” what of time to come?
-For what is best of all â€”
+What signifies the past — what of time to come?
+For what is best of all —
 Is to believe that it should never end,
-That hourâ€™s illusion.
-And when I tell you â€” evermore â€” do naught
+That hour‘s illusion.
+And when I tell you — evermore — do naught
 That might dispel that dream,
 And may your kiss on mine
 Press all the longer and more tenderly.
-Â 
+ 
 Desire in melancholy
-Everything lives â€” everything loves, and I, sad and alone,
+Everything lives — everything loves, and I, sad and alone,
 Stand like a dead tree against the vernal sky
 I can no longer love, I who have lived but thirty years,
 And have my mistress lately quit without regrets.
 I am like a sick man, his thoughts grown dull
 And wearying of his stale, familiar room,
 His sole amusement, stupid and mechanical,
-To count inside his head his carpetâ€™s flowers.
+To count inside his head his carpet‘s flowers.
 Sometimes I wish my end were near,
 And all these recollections, once so sweet,
-I thrust away â€” as from the portrait of an ancestor
+I thrust away — as from the portrait of an ancestor
 Whose gaze disturbs us, we turn away our eye.
 Even of that old love, that drew so many tears,
 No trace remains in this, my jaded heart.
@@ -220,70 +221,70 @@ No more than on the rose the butterfly
 That brushed against it leaves a trace.
 O, thou figure in my thoughts, veiled and dim,
 Whom I may meet tomorrow, whom I know not yet,
-A courtesan, leaning at table â€™mid the remnants of a meal,
-Or â€” a young woman, pensive, eyes downcast and pale.
-Oh â€” appear! â€” if yet this wretched heart, empty of desire,
+A courtesan, leaning at table ‘mid the remnants of a meal,
+Or — a young woman, pensive, eyes downcast and pale.
+Oh — appear! — if yet this wretched heart, empty of desire,
 Its flame extinct, you can again ignite,
-Give me again the infinite within a womanâ€™s glance
+Give me again the infinite within a woman‘s glance
 And all of nature blooming in a kiss.
 Come! As sailors on a foundering ship
-Throw â€” to win an hourâ€™s respite â€” a treasure to the deep â€”
-Come! â€” I promise you all â€” heart and soul, blood and flesh,
-All â€” for but a momentâ€™s faith â€” or yet of drunken rapture.
+Throw — to win an hour‘s respite — a treasure to the deep —
+Come! — I promise you all — heart and soul, blood and flesh,
+All — for but a moment‘s faith — or yet of drunken rapture.
 Sorrow assuaged
 You whom I saw as like the blasted oak,
 I find you now a father, find you spouse;
-And yet to that brow that dreamed of deathâ€™s release,
+And yet to that brow that dreamed of death‘s release,
 A pistol once was held.
 All that you cannot have forgotten quite;
 You knew how one suffers and despairs;
 You carried in your breast the viper vile
-Of a great love betrayed, a great hope â€” crushed.
-Oblivion eluded you â€” you sought out
-Tumults, orgy and its songs â€” fame and its jibes
-And the long roaring of the sea and of the wind â€”
+Of a great love betrayed, a great hope — crushed.
+Oblivion eluded you — you sought out
+Tumults, orgy and its songs — fame and its jibes
+And the long roaring of the sea and of the wind —
 Who, then, unto your sorrow put a silent stop
-O Lonesome one â€” â€™twas but the rhythmic beat
+O Lonesome one — ‘twas but the rhythmic beat
 Marked by the cradle of a little child.
-Â 
+ 
 A wound reopened
 O, my heart, are you then so craven and so weak?
 And would you be like a convict, dragging his ball and chain,
 Who, though released, yet hobbles still?
-Be silent â€” well you know the sentence she has passed on you.
+Be silent — well you know the sentence she has passed on you.
 I will no longer suffer, and thus I order you:
 If I should feel you swell once more and writhe,
 May I, with a stifled sob, crush you,
 And no one shall know of it, and, to still my cries,
-Theyâ€™d see me â€” for that ghastly minute,
-Clench my teeth â€” just like a soldier during amputation.
+They‘d see me — for that ghastly minute,
+Clench my teeth — just like a soldier during amputation.
 The first one
-Itâ€™s not that she was so beautiful,
+It‘s not that she was so beautiful,
 But we were both twenty,
 And that day, as I recall,
 Was a spring morning.
-Itâ€™s not that she looked so serious,
+It‘s not that she looked so serious,
 But here and now I swear
 That never have I dared do a more courageous thing
 Than when I told her that I loved her.
-Itâ€™s not that she had a tender heart,
+It‘s not that she had a tender heart,
 But it was so delightful
 To talk to her, to listen to her speak,
 My eyes would fill with tears.
-Itâ€™s not that her soul was hard,
+It‘s not that her soul was hard,
 But all the same, we parted.
 From then my sadness takes its date,
 And will continue, everlastingly.
-In the street â€” evening
-Nine oâ€™clock. Drums sound the retreat,
+In the street — evening
+Nine o‘clock. Drums sound the retreat,
 Flighty grisettes are quitting working streets
 After their daily stint is done.
-Itâ€™s like a kick delivered to a swarming hive.
+It‘s like a kick delivered to a swarming hive.
 In waterproofs, with little leather bags,
 You see them fly, trotting from every side
 To families and secret love affairs.
-Skilled laundresses â€” stitchers of ankle-boots,
-Daughters of Montparnasse and MÃ©nilmontant,
+Skilled laundresses — stitchers of ankle-boots,
+Daughters of Montparnasse and Ménilmontant,
 Happy he who waits for you, if his heart still beats.
-Â 
-Â 
+ 
+ 

@@ -4,6 +4,7 @@ Date|Wednesday, 14 March 1883
 To|Michiel de Zwart
 From|Vincent van Gogh
 Museum|Unknown
+Inventory|
 Link image 1|http://vangoghletters.org/vg/facsimiles/328_1rf.png
 Link image 2|http://vangoghletters.org/vg/facsimiles/328_2rf.png
 Url letter|http://vangoghletters.org/vg/letters/let328/letter.html
@@ -16,4 +17,4 @@ Otherwise leaving it to you, naturally, to decide how you want to do it.
 I respectfully remain,
 Your servant
 Vincent van Gogh.
-Â 
+ 

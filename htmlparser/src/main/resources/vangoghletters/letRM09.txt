@@ -3,7 +3,8 @@ Location|Isleworth
 Date|about September 1876
 To|Theo van Gogh
 From|Vincent van Gogh
-Museum|Amsterdam, Van Gogh Museum, inv. nos. b104 b-c V/1962
+Museum| Van Gogh Museum 
+Inventory|inv. nos. b104 b-c V/1962
 Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000112_01_nf.png
 Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000112_02_nf.png
 Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000113_02_nf.png
@@ -19,8 +20,8 @@ His song had never been so tender,
 Nor, like now, so magical:
 It filled him, too, with wonder.
 There trills a chord so heavenly
-It moves the old manâ€™s heart.
-The organ stops, the dear childâ€™s soul
+It moves the old man‘s heart.
+The organ stops, the dear child‘s soul
 This earthly vale departs.
 A longing for sanctification
 Who shall free us fully and for ever
@@ -29,34 +30,34 @@ How long must I still combat my nature
 Ere this heart from sinful service be revoked?
 That God my God would be, I pledged my troth
 With singleness of mind Him would I follow
-But I was tried â€“ forgotten was my oath
-I was tempted â€“ and my foot did falter.
-No, with my own strength I shanâ€™t learn to conquer
+But I was tried – forgotten was my oath
+I was tempted – and my foot did falter.
+No, with my own strength I shan‘t learn to conquer
 Soul, confess your weakness, self-deceit, take flight!
-A childâ€™s heart must be shaped by the Father
-The Master be the pupilâ€™s guiding light.
-Â 
+A child‘s heart must be shaped by the Father
+The Master be the pupil‘s guiding light.
+ 
 Well then, Father, let your love be my teacher
 My Master, take my hand, and show your standard
-I stood alone â€“ and fell: now weâ€™re together
+I stood alone – and fell: now we‘re together
 I succumbed, but win behind your vanguard.
 Only now do I feel strong, when with weakness stricken
 Powerless in myself, but in the Lord, almighty!
 Sin may tempt, the evil passions quicken,
 Thou castest down all foes, O God in me!
-I am grieved, but itâ€™s a godly sadness
-A night-cloud â€“ tinged all round with dawnâ€™s bright crimson
+I am grieved, but it‘s a godly sadness
+A night-cloud – tinged all round with dawn‘s bright crimson
 I weep, Lord, though my heart is full of gladness
-I bow my head â€“ but, Father, in thy bosom.
+I bow my head – but, Father, in thy bosom.
 I know in Whom my faith is founded,
 Though day and night change constantly,
-I know the rock on which Iâ€™m grounded,
+I know the rock on which I‘m grounded,
 My Saviour waits, unfailingly.
-When once lifeâ€™s evening overcomes me,
+When once life‘s evening overcomes me,
 Worn down by ills and strife always,
 For every day Thou hast allowed me,
-Iâ€™ll bring Thee higher, purer praise.
-Â 
+I‘ll bring Thee higher, purer praise.
+ 
 The pilgrimage
 Homesickness flowed through
 The heart of a pilgrim,
@@ -64,7 +65,7 @@ Seeking the heavenly
 Jerusalem.
 City of pleasures,
 Of joy everlasting,
-Which once Godâ€™s angel
+Which once God‘s angel
 Had promised to him.
 Crystal-clear rivers,
 May your placid waters
@@ -81,7 +82,7 @@ The woods with its glow.
 If I only had wings
 Like a dove I should glide,
 And fly fast through the sky,
-To you, city, Iâ€™d go.
+To you, city, I‘d go.
 Sanctified wistfulness
 Softens my spirit,
 And vehement yearnings
@@ -131,7 +132,7 @@ Greets the ears of the weary,
 As bravely his journey
 Is brought to an end.
 Pious parents are a blessing,
-Child, you canâ€™t thank them enough!
+Child, you can‘t thank them enough!
 They pave for you the straight and narrow
 Path, which many find so tough.
 Oh the skylark ever chirping
@@ -140,7 +141,7 @@ Flying higher in the sky.
 Singing hymns let us unite
 Rising in the glorious light
 Freed from fetters now am I.
-Â 
+ 
 The king on the tower platform
 The hills lie ayonder
 All misty and grey
@@ -150,9 +151,9 @@ All round me is slumber
 Not one sign of woe
 Is brought to disturb me
 By breezes that blow.
-Iâ€™ve ever looked after
-Each oneâ€™s happiness
-Iâ€™ve drunk of the cup
+I‘ve ever looked after
+Each one‘s happiness
+I‘ve drunk of the cup
 In both need and distress.
 The night time has fallen
 The firmament glows
@@ -166,12 +167,12 @@ Rapturous music
 Of heavenly choirs
 Scarce heard, yet caressing
 And soothing my ears.
-My hairâ€™s turning grey now
+My hair‘s turning grey now
 My ardour doth pall
 My armour now hangs
 Full of rust on the wall.
-Justly Iâ€™ve spoken,
-And justice Iâ€™ve done
+Justly I‘ve spoken,
+And justice I‘ve done
 Oh when will my hour
 Of peace finally come?
 The peace which my spirit
@@ -183,7 +184,7 @@ Which more wonderfully glow,
 And be able to hear sounds
 Much louder than now.
 Winter morning
-â€™Twas a cheerless winter morn
+‘Twas a cheerless winter morn
 Of sunlight not a glimmer.
 At intervals a death-knell rang
 And pierced the misty shimmer.
@@ -195,7 +196,7 @@ It was a destitute old man
 They carried to his grave.
 His burial was just as drab
 As once had been his days.
-Now heâ€™s in Godâ€™s glorious light,
+Now he‘s in God‘s glorious light,
 The choirs of angels sing.
 Rejoicing now, their fulsome tones
 Throughout the world shall ring.
@@ -204,7 +205,7 @@ Welcome sight of larks ascending,
 Skyward paths forever wending,
 Some alight beside the stream,
 Others frolic in the tree.
-To sing Godâ€™s praise is the delight
+To sing God‘s praise is the delight
 Of one who from my heart takes flight!
 Cemetery in spring
 Resting place of our departed,
@@ -220,7 +221,7 @@ Evening clouds
 Clouds during the day so dark
 In the western sky do hover,
 Glowing with a purple shimmer
-Pierced by sunsetsâ€™ golden light.
+Pierced by sunsets‘ golden light.
 In like way, foretells my heart,
 Soon or late, when I, death-stricken,
 Leave this life, my soul will quicken

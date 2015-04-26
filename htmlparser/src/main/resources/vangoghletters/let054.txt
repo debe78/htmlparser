@@ -3,7 +3,8 @@ Location|Paris
 Date|Wednesday, 6 October 1875
 To|Theo van Gogh
 From|Vincent van Gogh
-Museum|Amsterdam, Van Gogh Museum, inv. no. b54 V/1962
+Museum| Van Gogh Museum 
+Inventory|inv. no. b54 V/1962
 Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000057_01_nf.png
 Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000057_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let054/letter.html
@@ -11,16 +12,16 @@ Letter|[Letterhead: Goupil Paris]
 Paris, 6 Oct. 1875
 My dear Theo,
 Even though I wrote to you only recently, I want to do so again anyway, because I know how difficult life can sometimes be. Keep your chin up, old boy, after rain comes sunshine, just keep hoping for that.
-Rain and sunshine alternate on â€˜the road that goes uphill all the way, yes to the very endâ€™, and from time to time one also rests on â€˜the journey that takes the whole day long, from morn till nightâ€™. So think now and often after this, that â€˜this also will pass awayâ€™.
+Rain and sunshine alternate on ‘the road that goes uphill all the way, yes to the very end‘, and from time to time one also rests on ‘the journey that takes the whole day long, from morn till night‘. So think now and often after this, that ‘this also will pass away‘.
 And especially, you too should ask: Create in me a new heart, O God;
-Â  and renew a right spirit within me.
-Today I had the opportunity to send a package to Anna and Willemien. Among other things I sent her Lâ€™imitation de Jesus Christ and several books of the Bible, published separately, in the same edition as the Psalms I sent you.
+  and renew a right spirit within me.
+Today I had the opportunity to send a package to Anna and Willemien. Among other things I sent her L‘imitation de Jesus Christ and several books of the Bible, published separately, in the same edition as the Psalms I sent you.
 Read them faithfully. Would you perhaps like the 4 Gospels and some of the epistles, printed separately?
-I also sent Anna several prints â€“ including Rembrandt, Reading the Bible and The supper at Emmaus (an old engraving, by De Frey, I believe), Philippe de Champaigne, Portrait of a lady, a large, beautiful etching after Chaigneau, Shepherdess and sheep, and then DuprÃ©, Evening, Troyon, Morning, Bodmer, Fontainebleau, FranÃ§ais, Last fine days, FrÃ¨re, Seamstresses, and A cooper, Daubigny, After sunset, &amp;c. &amp;c., as well as a couple of photos, namely of Delaroche, Gethsemane No. 424, Good Friday and Mater Dolorosa and Brion, The farewells.
+I also sent Anna several prints – including Rembrandt, Reading the Bible and The supper at Emmaus (an old engraving, by De Frey, I believe), Philippe de Champaigne, Portrait of a lady, a large, beautiful etching after Chaigneau, Shepherdess and sheep, and then Dupré, Evening, Troyon, Morning, Bodmer, Fontainebleau, Français, Last fine days, Frère, Seamstresses, and A cooper, Daubigny, After sunset, &c. &c., as well as a couple of photos, namely of Delaroche, Gethsemane No. 424, Good Friday and Mater Dolorosa and Brion, The farewells.
 I hope so much that things will continue to go well for Anna there. She keeps up her courage, I know so well that she sometimes finds things so difficult.
-And yet â€˜one has oneâ€™s good daysâ€™ as Jules DuprÃ© often said, letâ€™s go on believing that.
-Â 
-Iâ€™d very much like to have the Dutch hymns. When you get the opportunity, do you think you could manage to send the cheapest edition that can be found? I have the Psalms.
+And yet ‘one has one‘s good days‘ as Jules Dupré often said, let‘s go on believing that.
+ 
+I‘d very much like to have the Dutch hymns. When you get the opportunity, do you think you could manage to send the cheapest edition that can be found? I have the Psalms.
 There are also some beautiful English hymns, including this one:
 Thy way not mine, o Lord
 However dark it be,
@@ -45,17 +46,17 @@ My wisdom and my all.
 and the following:
 Nearer my God to Thee
 Nearer to Thee!
-Eâ€™en though it be a cross
+E‘en though it be a cross
 That raiseth me;
 Still all my song shall be
 Nearer my God to Thee
 Nearer to Thee.
-Â 
+ 
 Though like a wanderer,
 The sun gone down,
 Darkness come over me
 My rest a stone;
-Yet in my dreams Iâ€™d be
+Yet in my dreams I‘d be
 Nearer, my God, to Thee
 Nearer to Thee!
 There let my way appear
@@ -68,19 +69,19 @@ Nearer to Thee.
 Oft in sorrow and in woe
 Onward, Christians, onward go;
 Fight the fight, maintain the strife,
-Strengthenâ€™d with the bread of life.
+Strengthen‘d with the bread of life.
 Let your drooping hearts be glad;
 March in heavenly armour clad:
 Fight, nor think the battle long,
-Soon shall victâ€™ry tune your song
+Soon shall vict‘ry tune your song
 Let not sorrow dim your eye,
-Soon shall evâ€™ry tear be dry;
+Soon shall ev‘ry tear be dry;
 Let not fear your course impede,
 Great your strength, if great your need!
 Give my regards to my acquaintances. How is Caroline van Stockum? Give my special regards to her, and believe me
 Your most loving brother
 Vincent
 Does the road go uphill then all the way?
-â€˜Yes to the very endâ€™.
+‘Yes to the very end‘.
 And will the journey take all day long?
-â€˜From morn till night, my friendâ€™.
+‘From morn till night, my friend‘.

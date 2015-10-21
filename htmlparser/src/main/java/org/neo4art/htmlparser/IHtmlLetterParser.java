@@ -6,6 +6,11 @@ import org.apache.tika.metadata.Metadata;
 import org.apache.tika.sax.LinkContentHandler;
 import org.neo4art.htmlparser.exception.HtmlLetterParserException;
 
+/**
+ * 
+ * @author Enrico
+ *
+ */
 public interface IHtmlLetterParser {
 
 	/**
